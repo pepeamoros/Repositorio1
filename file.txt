@@ -1,0 +1,5 @@
+Listado de rutas de carpetas para el volumen OS
+El n£mero de serie del volumen es 5078-3AA1
+C:.
+No existe ninguna subcarpeta 
+
