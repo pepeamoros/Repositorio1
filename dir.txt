@@ -1,0 +1,10 @@
+ El volumen de la unidad C es OS
+ El n£mero de serie del volumen es: 5078-3AA1
+
+ Directorio de C:\Users\Pepe\miriadax\mis_proyectos\Repositorio1
+
+11/07/2015  14:58                 0 dir.txt
+11/07/2015  14:57               143 file.txt
+11/07/2015  14:31               132 file2.txt
+               3 archivos            275 bytes
+               0 dirs  91.997.810.688 bytes libres
